@@ -29,7 +29,7 @@ Hasil Output pada Console
 ### Source Code Menghitung Keliling dan Luas Persegi Panjang
 ![images (1)](https://user-images.githubusercontent.com/93045470/139361356-0509dbf2-0c8d-433e-a8cd-52490d396079.png)
 
-### Source Cede Konversi Suhu
+### Source Code Konversi Suhu
 - Reamur ke Celcius<br>
 ![images (2)](https://user-images.githubusercontent.com/93045470/139362842-9d7aa006-7f22-4db0-9c88-050490d8f874.png)<br><br>
 
